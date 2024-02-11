@@ -1,0 +1,25 @@
+.MenuBar{
+    position: fixed;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height:25px;
+    width:100%;
+    transition:all ease-in 0.5s;
+    z-index:1;
+    top: 0;
+}
+
+.MenuBar-logo{
+    width:8rem;
+    position:fixed;
+    left:20px;
+    top:0px;
+}
+
+.MenuBar-avatar{
+    width: 2.5rem;
+    position:fixed;
+    right:20px;
+    top:0px;
+    margin-top:12px;
+}
